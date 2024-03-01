@@ -5,7 +5,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/luis5000/azle-api-rest-ckbtc
+  git clone https://github.com/luis5000/dappckbtc.git
 ```
 
 Go to the project directory
