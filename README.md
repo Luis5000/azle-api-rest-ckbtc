@@ -5,7 +5,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/luis5000/dappckbtc.git
+  git clone https://github.com/luis5000/dappckbtc
 ```
 
 Go to the project directory
